@@ -1,0 +1,3 @@
+1、了解JavaScript模块化开发。
+2、了解模块化规范（AMD/CMD）。
+3、了解angularJS。
